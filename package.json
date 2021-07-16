@@ -12,7 +12,7 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
-    "release": "lerna publish"
+    "release": "lerna publish --no-verify-access"
   },
   "dependencies": {
     "lerna": "^4.0.0"

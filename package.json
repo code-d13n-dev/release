@@ -1,0 +1,16 @@
+{
+  "name": "release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:douglaseggleton/release.git",
+  "author": "douglaseggleton",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build"
+  },
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}

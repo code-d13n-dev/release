@@ -1,0 +1,12 @@
+{
+  "name": "@d13n/package-b",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "mkdir -p dist && cp -R src dist"
+  },
+  "dependencies": {
+    "@d13n/package-a": "^1.0.0"
+  }
+}

@@ -1,10 +1,9 @@
 {
-    "name": "@d13n/package-c",
-    "version": "1.0.0",
-    "main": "dist/index.js",
-    "license": "MIT",
-    "scripts": {
-      "build": "mkdir -p dist && cp -R src dist"
-    }
+  "name": "@d13n/package-c",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "mkdir -p dist && cp -R src dist"
   }
-  
+}

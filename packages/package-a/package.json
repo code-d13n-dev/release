@@ -5,5 +5,9 @@
   "license": "MIT",
   "scripts": {
     "build": "mkdir -p dist && cp -R src dist"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0f371f91caf42a09b31ec6794e7f792a0f947247"
 }

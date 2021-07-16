@@ -8,5 +8,9 @@
   },
   "dependencies": {
     "@d13n/package-a": "^0.0.1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0f371f91caf42a09b31ec6794e7f792a0f947247"
 }
